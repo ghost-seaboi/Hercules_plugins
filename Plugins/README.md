@@ -7,3 +7,8 @@ HPM Plugins made for Hercules Emulator
     Usage: @homgrowth
    _Note: This is only compatible on pre-renewal setting._
     
+## aegisdroprate.c
+  This will add additional 0.01% drop rate to every item on drop table emulating the Aegis Drop Rate Bug.
+
+## mobiddisplay.c
+  Adds Mob ID beside the Mob Name in-game.
