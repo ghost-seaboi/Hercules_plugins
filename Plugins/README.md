@@ -11,4 +11,4 @@ HPM Plugins made for Hercules Emulator
   This will add additional 0.01% drop rate to every item on drop table emulating the Aegis Drop Rate Bug.
 
 ## mobiddisplay.c
-  Adds Mob ID beside the Mob Name in-game.
+  Adds Mob ID beside the Mob Name in-game. ![Sample](https://ibb.co/pvRPZhNc)
