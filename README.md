@@ -6,5 +6,12 @@ Plugins:
     - Released 2025-05-14
     - Version 1.0
 
+- aegisdroprate
+    - Released 2025-05-16
+    - Version 1.0
+ 
+- mobiddisplay
+    - Released 2025-05-16
+    - Version 1.0
 
 _Plugins are located in **Plugins** Folder._
