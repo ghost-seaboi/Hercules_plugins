@@ -12,3 +12,6 @@ HPM Plugins made for Hercules Emulator
 
 ## mobiddisplay.c
   Adds Mob ID beside the Mob Name in-game. ![Sample](https://ibb.co/pvRPZhNc)
+
+## looternodelete.c
+  Looter mobs will only pick up 10 items and will skip picking up new items when full. Picked-up items will not be deleted.
