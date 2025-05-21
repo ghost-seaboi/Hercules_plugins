@@ -14,4 +14,8 @@ Plugins:
     - Released 2025-05-16
     - Version 1.0
 
+- looternodelete
+    - Released 2025-05-21
+    - Version 1.0
+
 _Plugins are located in **Plugins** Folder._
