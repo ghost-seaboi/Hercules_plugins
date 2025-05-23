@@ -15,3 +15,6 @@ HPM Plugins made for Hercules Emulator
 
 ## looternodelete.c
   Looter mobs will only pick up 10 items and will skip picking up new items when full. Picked-up items will not be deleted.
+
+## dropannouncerate.c
+  Adds announcement feature on rare drops (no DropAnnounce modification needed on itemdb). To configure, just edit the 'rate_announce' variable.
