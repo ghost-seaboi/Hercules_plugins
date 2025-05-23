@@ -18,3 +18,5 @@ HPM Plugins made for Hercules Emulator
 
 ## dropannouncerate.c
   Adds announcement feature on rare drops (no DropAnnounce modification needed on itemdb). To configure, just edit the 'rate_announce' variable.
+  
+    int rate_announce = xx;
