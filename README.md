@@ -18,4 +18,8 @@ Plugins:
     - Released 2025-05-21
     - Version 1.0
 
+- dropannouncerate
+    - Released 2025-05-23
+    - Version 1.0
+
 _Plugins are located in **Plugins** Folder._
